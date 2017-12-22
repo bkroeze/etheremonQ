@@ -5,7 +5,7 @@ A simple command-line query tool for Etheremon accounts.
 ## Installation
 
 ```
-npm install -g etheremonQ
+npm install -g node-gyp etheremonQ
 ```
 
 ## Usage

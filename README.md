@@ -2,6 +2,12 @@
 
 A simple command-line query tool for Etheremon accounts.
 
+## Installation
+
+```
+npm install -g etheremonQ
+```
+
 ## Usage
 
 ```

@@ -1,0 +1,19 @@
+{
+  "name": "etheremonQ",
+  "version": "0.0.1",
+  "description": "Queries Etheremon monster stats",
+  "main": "etheremonQ.js",
+  "repository": "https://github.com/bkroeze/etheremonQ",
+  "author": {
+    "name": "Bruce Kroeze",
+    "email": "bkroeze@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.0.0-beta.27",
+    "yargs": "^10.0.3"
+  },
+  "peerDependencies": {
+    "node-gyp": "^3.6.2"
+  }
+}
